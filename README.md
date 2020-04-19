@@ -2,5 +2,5 @@
 # OF-logo-filter
 > A normal onerfusion  logo floating filter made in SparkAR for Instagram
 # Spark AR by Facebook #
-![SparkAR Screenshot](https://raw.githubusercontent.com/OnerFusionINC/OF-logo-filter/master/textures/Screenshot%202020-03-19%20at%201.39.51%20PM.png?token=AB5WL6V7IO72C6HPL7QRFZS6TP7FY)
+![SparkAR Screenshot](https://i.ibb.co/6y68C2z/Screenshot-2020-03-19-at-1-39-51-PM.png)
 
